@@ -46,3 +46,18 @@
   padding: 2px 4px;
   border-radius: 4px;
 }
+
+.navbar {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #c78f8f;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 10px 0;
+}
+.navbar a:hover {
+  color: white;
+  text-decoration: underline;
+}
