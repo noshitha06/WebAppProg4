@@ -5,7 +5,7 @@
 }
 
 .direction {
-  background-color: lightyellow;
+  background-color: rgb(255, 224, 224);
 }
 .direction:hover {
   background-color: orange;
@@ -17,8 +17,8 @@
 }
 
 .hjalmar {
-  color: darkred;
+  color: rgb(233, 86, 86);
 }
 .gina {
-  color: darkblue;
+  color: rgb(83, 83, 237);
 }
