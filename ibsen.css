@@ -22,3 +22,27 @@
 .gina {
   color: rgb(83, 83, 237);
 }
+.cast-table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 2rem 0;
+}
+
+.cast-table th,
+.cast-table td {
+  border: 1px solid #999;
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.cast-table th {
+  background-color: darkred;
+  color: white;
+}
+
+.name:hover {
+  text-shadow: 2px 2px 6px rgb(225, 165, 197);
+  border: 2px solid rgb(153, 219, 219);
+  padding: 2px 4px;
+  border-radius: 4px;
+}
